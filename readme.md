@@ -91,7 +91,7 @@ pip install psycopg2-binary fastmcp
 
 ```
 todo-mcp/
-├── todo_mcp_server.py   # MCP-Server mit allen Tools
+├── to_do_mcp_server.py   # MCP-Server mit allen Tools
 ├── README.md            # Diese Datei
 └── .gitignore           # Schützt sensible Dateien
 ```
