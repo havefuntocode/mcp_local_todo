@@ -78,7 +78,7 @@ INSERT INTO todo (todo, prioritaet, startdatum, enddatum, status) VALUES
 
 ```bash
 # Repository klonen
-git clone https://github.com/dein-username/todo-mcp.git
+git clone https://github.com/havefuntocode/todo-mcp.git
 cd todo-mcp
 
 # Abhängigkeiten installieren
