@@ -78,11 +78,11 @@ INSERT INTO todo (todo, prioritaet, startdatum, enddatum, status) VALUES
 
 ```bash
 # Repository klonen
-git clone https://github.com/havefuntocode/todo-mcp.git
+git clone https://github.com/havefuntocode/mcp_local_todo.git
 cd todo-mcp
 
 # Abhängigkeiten installieren
-pip install psycopg2-binary fastmcp
+pip install psycopg2-binary mcp fastmcp
 ```
 
 ---
