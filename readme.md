@@ -29,7 +29,7 @@ Ideal als Einstiegsprojekt für eigene MCP-Server-Entwicklungen.
 - Folgende Python-Pakete:
 
 ```bash
-pip install psycopg2-binary fastmcp
+pip install psycopg2-binary mcp fastmcp
 ```
 
 ---
